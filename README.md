@@ -2,7 +2,9 @@
 <p align="center"><img src="https://socialify.git.ci/swapnilkr/Sentiment_Analysis/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="NetNexus" width="640" height="180" /></p>
 
 <h2> <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>Description </h2>
-The Sentiment Analysis project aims to automate the detection of different sentiments from textual comments and feedback, providing valuable insights into public opinion, customer satisfaction, and user sentiment across various platforms.
+The Sentiment Analysis project aims to automate the detection of different sentiments from textual comments and feedback, providing valuable insights into public opinion, customer satisfaction, and user sentiment across various platforms. 
+• To infer the sentiment used two classifiers: logistic regression and multinomial naive Bayes,tuned the hyperparameters of both classifiers with grid search
+• Achieving accuracy of 0.80
 
  <br>
 
